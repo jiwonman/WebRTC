@@ -1,5 +1,3 @@
-"# WebRTC" 
-
 ## 사용방법
 
 - openssl 설치
@@ -24,4 +22,4 @@ Windows Os는 Chrome 사용이 가능하지만
 Mac Os는 Chrome 사용이 안되서 Safari, Edge 등 다른 브라우저에서 사용
 
 ### 추가할 사항
-기존에 했던 Sokcet 채팅 구현 옮겨서 실시간 화상 + 채팅 적용하기
+기존에 했던 Socket 채팅 구현 옮겨서 실시간 화상 + 채팅 적용하기
